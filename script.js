@@ -19,7 +19,6 @@ function eventListeners() {
 
     //delete an item
     taskList.addEventListener("click", deleteItem);
-    1n
     //delete all items
 
     btnDeleteAll.addEventListener("click", deleteAllItems);
